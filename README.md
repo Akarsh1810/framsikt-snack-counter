@@ -1,6 +1,6 @@
 # Snack Counter Automation
 
-A focused Go implementation of the Framsikt take-home assignment.
+A focused Go implementation of the Framsikt.
 
 ## Scope
 - Refill lifecycle from empty report through reimbursement.
